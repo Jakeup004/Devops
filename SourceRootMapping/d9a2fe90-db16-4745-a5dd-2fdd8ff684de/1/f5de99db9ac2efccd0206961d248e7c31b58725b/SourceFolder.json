@@ -1,0 +1,26 @@
+﻿{
+  "build_artifactstagingdirectory": "2\\a",
+  "agent_builddirectory": "2",
+  "collectionUrl": "https://dev.azure.com/gifton004/",
+  "definitionName": "Jakeup004.Devops",
+  "repositoryTrackingInfo": [
+    {
+      "identifier": "self",
+      "repositoryType": "GitHub",
+      "repositoryUrl": "https://github.com/Jakeup004/Devops",
+      "sourcesDirectory": "2\\s\\Devops"
+    }
+  ],
+  "fileFormatVersion": 3,
+  "lastRunOn": "10/30/2024 09:23:05 +05:30",
+  "repositoryType": "GitHub",
+  "lastMaintenanceAttemptedOn": "",
+  "lastMaintenanceCompletedOn": "",
+  "build_sourcesdirectory": "2\\s",
+  "common_testresultsdirectory": "2\\TestResults",
+  "collectionId": "d9a2fe90-db16-4745-a5dd-2fdd8ff684de",
+  "definitionId": "1",
+  "hashKey": "f5de99db9ac2efccd0206961d248e7c31b58725b",
+  "repositoryUrl": "https://github.com/Jakeup004/Devops",
+  "system": "build"
+}
